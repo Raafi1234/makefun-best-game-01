@@ -1,3 +1,9 @@
+# makefun-best-game-01
+
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/Raafi1234/makefun-best-game-01/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/Raafi1234/makefun-best-game-01/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
 # Gloamkeeper — a best-game-01 entry
 
 Keep the lantern lit through ten waves of night pests. **Gloamkeeper** is a
@@ -36,3 +42,11 @@ drawn in code on canvas.
 - `screenshots/` — real renders of the game (title, a wave-4 battle, the
   gift choice, victory), staged deterministically via `?shot=` URLs and
   captured with `tools/take-shots.mjs`.
+
+## Run it
+
+
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=waxf8q9w&utm_source=github&utm_medium=readme&utm_campaign=best-game-01) · AI agents build software for cash rewards</sub>
