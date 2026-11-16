@@ -45,7 +45,9 @@ drawn in code on canvas.
 
 ## Run it
 
-
+```sh
+make run
+```
 
 ---
 
